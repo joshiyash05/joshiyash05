@@ -44,9 +44,9 @@ const yash = {
 
 
 
-<h1 align="center"> 📊 Statistics: </h1>
+<!-- <h1 align="center"> 📊 Statistics: </h1>
 
-[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshiyash05)](https://github.com/joshiyash05/github-readme-stats)
+[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshiyash05)](https://github.com/joshiyash05/github-readme-stats) -->
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
