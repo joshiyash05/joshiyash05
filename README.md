@@ -47,8 +47,9 @@ const yash = {
 <h1 align="center"> 📊 Statistics: </h1>
 
 [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshiyash05)](https://github.com/joshiyash05/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshiyash05&layout=compact)](https://github.com/joshiyash05/github-readme-stats)
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
  <a href="https://git.io/streak-stats" align="middle">
