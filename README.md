@@ -12,6 +12,8 @@
 
 ## Achievements :tada::tada::tada:
 - 🥇 Smart India Hackathon 2022 winner.
+- 🥇 1st Place winner at DJSCE  Synapse-GDSC HackNiche (2023).
+- 🥇 2nd Place winner at CSI-SPIT hackathon (2023).
 - 🥇 1st Place winner at TCET hacknova 2.0 (2023).
 - 🥇 1st runner-up at VJTI's 24 Hours Hackathon Technovanza 2022.
 - 🥇 2nd runner-up at TCET's Hackathon Hackanova 2022.
